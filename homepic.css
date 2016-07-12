@@ -1,0 +1,95 @@
+
+  /* image slider */
+	figure{
+		font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+		background-color:#F18C8D;
+		height:246px;
+		width:650px;
+		text-align-last:center;
+		color:#000000;
+		float:left;		margin-top:0px;
+		margin-left:0;
+		border: medium #FFFFFF solid;
+		border-top-left-radius: 10px;
+		border-bottom-left-radius:10px;
+}
+
+main{
+	height:980px;
+}
+
+  /* Chapter News */
+aside{
+
+	float: right;
+	color: #202020;
+	font-size: 14px;
+	width: 290px;
+	height: 568px;
+	margin-top: 30px;
+	margin-left: -25px;
+	margin-right: 5px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-variant: normal;
+	clear:both;
+	
+	}
+	
+  /* chapter news heading*/
+h4{
+	color:#202020;
+	font-size:20px;
+		font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+
+}
+h3{
+	clear:left;
+	color:#202020;
+	font-size:24px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+
+#sect{
+	width:750px;
+	height:310px;
+	position:relative; 
+	left:20px;
+	
+}
+section{
+	width: 320px;
+	height: 280px;
+	margin: 10px;
+
+	background: #FFFFFF;
+	-webkit-box-shadow: 5px 5px 6px #868484;
+	box-shadow: 5px 5px 6px #868484;
+	color:#f0f0f0;
+}
+.img4{
+	width:120px;
+	height:150px;
+	margin:10px;
+	float:left;
+}
+.img4:hover{
+	-webkit-transform:scale(3.0);
+}
+aside a:link{
+	color:#202020;
+	text-decoration:none;
+}
+aside a:hover{
+	color:#f0f0f0;
+	background-color:#202020;
+	text-decoration:none;
+	
+}
+aside a:visited{
+	color:#004687;
+	text-decoration:none;
+	
+}
+	
+

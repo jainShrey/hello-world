@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+main{
+	background-color:rgba(255,255,255,0.7);
+	text-justify:inter-word;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	height:1200px;
+}
+.branch{
+	width:1080px;
+	-webkit-columns:330px 3; 
+	-webkit-column-rule: 2px #989898 dotted;
+	text-align:justify;
+	height:520px;
+	
+
+	
+}

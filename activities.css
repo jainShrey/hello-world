@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+h2{
+	color:#62AFF8;
+	width:980px;
+	text-align:center;
+	background-color:#202020;
+}
+div{
+	width:980px;
+	position:relative;
+	top:50px;
+	left:80px;
+	color:#000000;
+	
+	height:339px;
+	
+}
+.img{
+	width:200px;
+	height:290px;
+	margin-top:-10px;
+	float:left;
+	border:#f0f0f0 medium solid;
+
+}
+.img:hover{
+	opacity:1;
+	z-index:10;
+	position:absolute;
+
+	-webkit-transform:scale(2);
+	
+	
+}
+section{
+	width:750px;
+	height:282px;
+	float:right;
+	margin-top:-8px;
+
+	
+	
+	overflow:scroll;
+	background-color:#ffffff;
+	color:#202020;
+	overflow-x:hidden;
+	text-align:justify;
+	padding:5px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	
+	
+}
+
